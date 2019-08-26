@@ -32,5 +32,7 @@ implementation 'com.github.android-work:WaveProgressView_Support:v1.0.1'
         设置文字大小：setTextSize(float textSize)
         设置进度条背景：setBG(int background)
 
-
+### 图片描述<br>
 https://github.com/android-work/WaveProgressView_AndroidX/blob/master/IMAGE/Screenshot_2019-08-26-17-55-35.png
+
+![图片描述](https://github.com/android-work/WaveProgressView_AndroidX/blob/master/IMAGE/Screenshot_2019-08-26-17-55-35.png)
